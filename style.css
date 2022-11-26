@@ -1,0 +1,13 @@
+body{
+    color: white;
+    background: paleturquoise;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: crimson;
+}
